@@ -1,2 +1,2 @@
-# practicabanco
+# PRÁCTICA DE BANCO
 PROGRAMACIÓN II
